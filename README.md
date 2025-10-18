@@ -743,6 +743,7 @@ line-height: normal;
 ```
 
 ## OUTPUT:
+![WhatsApp Image 2025-10-18 at 09 51 21_25622ebe](https://github.com/user-attachments/assets/1d37b8d5-9512-4b36-9d7d-14e9d27b0e5c)
 
 
 ## RESULT:
